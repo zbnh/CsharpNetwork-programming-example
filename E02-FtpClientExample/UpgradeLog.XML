@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FtpClientExample">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample.suo">
+</Property><Property Name="Date" Value="2016年5月10日">
+</Property><Property Name="Time" Value="17:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FtpClientExample.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FtpClientExample.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample.suo">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FtpClientExample.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\FtpClientExample.csproj">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FtpClientExample.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\FtpClientExample.csproj.user">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FormMain.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\FormMain.cs">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FormMain.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\FormMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Program.cs">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Resources\folder.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Resources\folder.ico">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FormMain.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\E02-FtpClientExample\Backup\FtpClientExample\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FtpClientExample.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FtpClientExample" Source="FtpClientExample\FtpClientExample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FtpClientExample.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="FtpClientExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FtpClientExample" Source="FtpClientExample\FtpClientExample.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

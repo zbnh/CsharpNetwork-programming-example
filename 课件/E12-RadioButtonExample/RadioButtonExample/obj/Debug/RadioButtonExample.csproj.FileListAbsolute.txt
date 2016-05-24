@@ -1,0 +1,10 @@
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\bin\Debug\RadioButtonExample.exe
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\bin\Debug\RadioButtonExample.pdb
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.Form1.resources
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.Properties.Resources.resources
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.csproj.GenerateResource.Cache
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.exe
+D:\cs\ch5\RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.pdb
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E12-RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.exe
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E12-RadioButtonExample\RadioButtonExample\obj\Debug\RadioButtonExample.pdb

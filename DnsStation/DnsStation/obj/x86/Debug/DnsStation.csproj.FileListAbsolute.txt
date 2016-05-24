@@ -1,0 +1,18 @@
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\bin\Debug\DnsStation.exe
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\bin\Debug\DnsStation.pdb
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\DnsStation.Form1.resources
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\DnsStation.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\DnsStation.exe
+d:\documents\visual studio 2010\Projects\DnsStation\DnsStation\obj\x86\Debug\DnsStation.pdb
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\DnsStation.exe
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\DnsStation.pdb
+C:\Users\ch\Desktop\DnsStation\DnsStation\bin\Debug\DnsStation.exe
+C:\Users\ch\Desktop\DnsStation\DnsStation\bin\Debug\DnsStation.pdb
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\DnsStation.Form1.resources
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\DnsStation.Properties.Resources.resources
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ch\Desktop\DnsStation\DnsStation\obj\x86\Debug\GenerateResource.write.1.tlog

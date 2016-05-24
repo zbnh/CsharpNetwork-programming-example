@@ -1,0 +1,5 @@
+bin\Release\Network.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Network.Form1.resources
+obj\Release\Network.csproj.GenerateResource.Cache
+obj\Release\Network.exe

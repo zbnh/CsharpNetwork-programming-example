@@ -1,0 +1,8 @@
+bin\Debug\TransparentExample.exe
+bin\Debug\TransparentExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TransparentExample.Form1.resources
+obj\Debug\TransparentExample.Properties.Resources.resources
+obj\Debug\TransparentExample.csproj.GenerateResource.Cache
+obj\Debug\TransparentExample.exe
+obj\Debug\TransparentExample.pdb

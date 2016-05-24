@@ -1,0 +1,20 @@
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.exe
+c:\users\ch\documents\visual studio 2010\Projects\TcpServer\TcpServer\obj\x86\Debug\TcpServer.pdb
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\TcpServer.exe
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\TcpServer.pdb
+C:\Users\ch\Desktop\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\ch\Desktop\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Form1.resources
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\TcpServer.Properties.Resources.resources
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ch\Desktop\TcpServer\TcpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\计科四班\C#网络编程\示例代码\TcpServer\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\Documents\计科四班\C#网络编程\示例代码\TcpServer\TcpServer\obj\x86\Debug\TcpServer.pdb

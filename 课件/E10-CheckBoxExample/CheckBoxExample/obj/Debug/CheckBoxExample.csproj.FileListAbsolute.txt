@@ -1,0 +1,8 @@
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\bin\Debug\CheckBoxExample.exe
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\bin\Debug\CheckBoxExample.pdb
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\obj\Debug\CheckBoxExample.Form1.resources
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\obj\Debug\CheckBoxExample.Properties.Resources.resources
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\obj\Debug\CheckBoxExample.csproj.GenerateResource.Cache
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\obj\Debug\CheckBoxExample.exe
+D:\cs\ch5\CheckBoxExample\CheckBoxExample\obj\Debug\CheckBoxExample.pdb

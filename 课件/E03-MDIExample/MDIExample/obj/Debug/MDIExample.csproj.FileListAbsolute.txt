@@ -1,0 +1,12 @@
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\bin\Debug\MDIExample.exe
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\bin\Debug\MDIExample.pdb
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\obj\Debug\MDIExample.Form1.resources
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\obj\Debug\MDIExample.Properties.Resources.resources
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\obj\Debug\MDIExample.csproj.GenerateResource.Cache
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\obj\Debug\MDIExample.exe
+E:\mjbook\cs1\ch6\MDIExample\MDIExample\obj\Debug\MDIExample.pdb
+F:\backup\备课\10.源程序（1-15）\ch6\E03-MDIExample\MDIExample\obj\Debug\MDIExample.exe
+F:\backup\备课\10.源程序（1-15）\ch6\E03-MDIExample\MDIExample\obj\Debug\MDIExample.pdb
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E03-MDIExample\MDIExample\obj\Debug\MDIExample.exe
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E03-MDIExample\MDIExample\obj\Debug\MDIExample.pdb

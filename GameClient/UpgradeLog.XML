@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GameClient">
+</Property><Property Name="解决方案文件" Value="C:\Users\ch\Desktop\E02-SyncGame\GameClient\GameClient.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\ch\Desktop\E02-SyncGame\GameClient\GameClient.suo">
+</Property><Property Name="Date" Value="2016年4月6日">
+</Property><Property Name="Time" Value="14:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GameClient.sln" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GameClient.suo" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient.suo">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="项目文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\GameClient.csproj">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\DotColor.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\DotColor.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\FormPlaying.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\FormPlaying.designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\FormRoom.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\FormRoom.designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Program.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Service.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Service.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Resources\grid.gif" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Resources\grid.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Resources\black.gif" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Resources\black.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Resources\white.gif" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Resources\white.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\FormPlaying.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\FormRoom.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\E02-SyncGame\GameClient\Backup\GameClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="GameClient" Source="GameClient\GameClient.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="GameClient" Source="GameClient\GameClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GameClient.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="GameClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Network">
+</Property><Property Name="解决方案文件" Value="E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Network.sln">
+</Property><Property Name="用户选项文件" Value="E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Network.suo">
+</Property><Property Name="Date" Value="2008年1月3日">
+</Property><Property Name="Time" Value="15:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Network.sln" Description="文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\Network.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Network.suo" Description="文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\Network.suo">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network.csproj" Description="项目文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\Network.csproj">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network.csproj.user" Description="项目用户文件成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\Network.csproj.user">
+</Event><Event ErrorLevel="0" Project="Network" Source="AssemblyInfo.cs" Description="文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Network" Source="Form1.cs" Description="文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Network" Source="App.ico" Description="文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Network" Source="Form1.resx" Description="文件已成功备份为 E:\C#源码\源码2(重要)\第7章 网络应用\实例131 如何实现点对点的聊天\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Network" Source="Network.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Network.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Network.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Network" Source="Network.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

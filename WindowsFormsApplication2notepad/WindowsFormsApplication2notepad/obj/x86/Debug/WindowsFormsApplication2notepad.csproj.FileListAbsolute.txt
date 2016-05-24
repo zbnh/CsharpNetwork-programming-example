@@ -1,0 +1,17 @@
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\bin\Debug\WindowsFormsApplication2notepad.exe
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\bin\Debug\WindowsFormsApplication2notepad.pdb
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.Form1.resources
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.Properties.Resources.resources
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.exe
+C:\Users\ch\Desktop\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.pdb
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.exe
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.pdb
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\bin\Debug\WindowsFormsApplication2notepad.exe
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\bin\Debug\WindowsFormsApplication2notepad.pdb
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.csprojResolveAssemblyReference.cache
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.Form1.resources
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.Properties.Resources.resources
+G:\C#网络编程\WindowsFormsApplication2notepad\WindowsFormsApplication2notepad\obj\x86\Debug\WindowsFormsApplication2notepad.csproj.GenerateResource.Cache

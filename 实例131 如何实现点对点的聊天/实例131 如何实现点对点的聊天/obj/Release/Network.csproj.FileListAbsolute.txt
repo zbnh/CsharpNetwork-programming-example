@@ -1,0 +1,6 @@
+D:\Documents\计科四班\C#网络编程\实例131 如何实现点对点的聊天\实例131 如何实现点对点的聊天\bin\Release\Network.exe.config
+D:\Documents\计科四班\C#网络编程\实例131 如何实现点对点的聊天\实例131 如何实现点对点的聊天\bin\Release\Network.exe
+D:\Documents\计科四班\C#网络编程\实例131 如何实现点对点的聊天\实例131 如何实现点对点的聊天\obj\Release\Network.csprojResolveAssemblyReference.cache
+D:\Documents\计科四班\C#网络编程\实例131 如何实现点对点的聊天\实例131 如何实现点对点的聊天\obj\Release\Network.Form1.resources
+D:\Documents\计科四班\C#网络编程\实例131 如何实现点对点的聊天\实例131 如何实现点对点的聊天\obj\Release\Network.csproj.GenerateResource.Cache
+D:\Documents\计科四班\C#网络编程\实例131 如何实现点对点的聊天\实例131 如何实现点对点的聊天\obj\Release\Network.exe

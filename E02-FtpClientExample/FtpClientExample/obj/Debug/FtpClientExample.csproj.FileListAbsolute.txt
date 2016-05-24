@@ -1,0 +1,83 @@
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.FormMain.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.FormMain.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP\08-4-22以后\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.FormMain.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\08-4-22以后\09-04修改程序\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\mjbook\cs2\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.MainForm.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-13\马老师修改后\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-13\马老师修改后\ch08\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.MainForm.resources
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\mjbook\cs2\09-7-13from贾培艳\7-13修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.MainForm.resources
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\mjbook\cs2\ch08\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-13\马老师二次修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-13\马老师二次修改后\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.MainForm.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程实验\完整\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.MainForm.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第5章 FTP8\09-7-20\08Z 第08章  FTP应用编程例题\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.FormMain.resources
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\其它\高级网络编程\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch07\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.FormMain.resources
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\E02-FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache

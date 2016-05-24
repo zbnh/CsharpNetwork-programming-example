@@ -1,0 +1,6 @@
+G:\C#网络编程\ConsoleSocketDemo\Server\bin\Debug\Server.exe.config
+G:\C#网络编程\ConsoleSocketDemo\Server\bin\Debug\Server.exe
+G:\C#网络编程\ConsoleSocketDemo\Server\bin\Debug\Server.pdb
+G:\C#网络编程\ConsoleSocketDemo\Server\obj\Debug\Server.exe
+G:\C#网络编程\ConsoleSocketDemo\Server\obj\Debug\Server.pdb
+G:\C#网络编程\ConsoleSocketDemo\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

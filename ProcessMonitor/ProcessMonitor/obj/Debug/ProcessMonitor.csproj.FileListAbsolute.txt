@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\bin\Debug\ProcessMonitor.exe.config
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\bin\Debug\ProcessMonitor.exe
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.Form1.resources
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.exe
+C:\Users\Administrator\Desktop\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.pdb

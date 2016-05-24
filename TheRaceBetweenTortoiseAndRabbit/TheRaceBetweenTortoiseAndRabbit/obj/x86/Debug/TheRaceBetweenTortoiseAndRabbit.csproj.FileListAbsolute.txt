@@ -1,0 +1,17 @@
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\bin\Debug\TheRaceBetweenTortoiseAndRabbit.exe
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\bin\Debug\TheRaceBetweenTortoiseAndRabbit.pdb
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.Form1.resources
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.Properties.Resources.resources
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.exe
+C:\Users\ch\Desktop\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.pdb
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.exe
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.pdb
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\bin\Debug\TheRaceBetweenTortoiseAndRabbit.exe
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\bin\Debug\TheRaceBetweenTortoiseAndRabbit.pdb
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.csprojResolveAssemblyReference.cache
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.Form1.resources
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.Properties.Resources.resources
+G:\C#网络编程\TheRaceBetweenTortoiseAndRabbit\TheRaceBetweenTortoiseAndRabbit\obj\x86\Debug\TheRaceBetweenTortoiseAndRabbit.csproj.GenerateResource.Cache

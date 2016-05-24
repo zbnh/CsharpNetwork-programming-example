@@ -1,0 +1,8 @@
+G:\C#网络编程\NetGameDemo\GameServer\bin\Debug\GameServer.exe
+G:\C#网络编程\NetGameDemo\GameServer\bin\Debug\GameServer.pdb
+G:\C#网络编程\NetGameDemo\GameServer\obj\x86\Debug\GameServer.csprojResolveAssemblyReference.cache
+G:\C#网络编程\NetGameDemo\GameServer\obj\x86\Debug\GameServer.Form1.resources
+G:\C#网络编程\NetGameDemo\GameServer\obj\x86\Debug\GameServer.Properties.Resources.resources
+G:\C#网络编程\NetGameDemo\GameServer\obj\x86\Debug\GameServer.csproj.GenerateResource.Cache
+G:\C#网络编程\NetGameDemo\GameServer\obj\x86\Debug\GameServer.exe
+G:\C#网络编程\NetGameDemo\GameServer\obj\x86\Debug\GameServer.pdb

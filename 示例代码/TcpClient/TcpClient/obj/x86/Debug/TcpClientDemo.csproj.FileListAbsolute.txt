@@ -1,0 +1,26 @@
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.Form1.resources
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.Properties.Resources.resources
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\TcpClient.exe
+c:\users\ch\documents\visual studio 2010\Projects\TcpClient\TcpClient\obj\x86\Debug\TcpClient.pdb
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\TcpClient.exe
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\TcpClient.pdb
+C:\Users\ch\Desktop\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\ch\Desktop\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.Form1.resources
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.Properties.Resources.resources
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ch\Desktop\TcpClient\TcpClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\obj\x86\Debug\TcpClient.pdb
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.csprojResolveAssemblyReference.cache
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.Form1.resources
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.Properties.Resources.resources
+D:\Documents\计科四班\C#网络编程\示例代码\TcpClient\TcpClient\obj\x86\Debug\TcpClientDemo.csproj.GenerateResource.Cache

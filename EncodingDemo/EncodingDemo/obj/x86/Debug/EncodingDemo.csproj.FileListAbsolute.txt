@@ -1,0 +1,4 @@
+c:\users\hp\documents\visual studio 2010\Projects\EncodingDemo\EncodingDemo\bin\Debug\EncodingDemo.exe
+c:\users\hp\documents\visual studio 2010\Projects\EncodingDemo\EncodingDemo\bin\Debug\EncodingDemo.pdb
+c:\users\hp\documents\visual studio 2010\Projects\EncodingDemo\EncodingDemo\obj\x86\Debug\EncodingDemo.exe
+c:\users\hp\documents\visual studio 2010\Projects\EncodingDemo\EncodingDemo\obj\x86\Debug\EncodingDemo.pdb

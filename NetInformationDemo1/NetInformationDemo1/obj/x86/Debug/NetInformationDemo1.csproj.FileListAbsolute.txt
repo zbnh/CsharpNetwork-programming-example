@@ -1,0 +1,9 @@
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\bin\Debug\NetInformationDemo1.exe
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\bin\Debug\NetInformationDemo1.pdb
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\NetInformationDemo1.Form1.resources
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\NetInformationDemo1.Properties.Resources.resources
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\NetInformationDemo1.exe
+C:\Users\ch\Desktop\NetInformationDemo1\NetInformationDemo1\obj\x86\Debug\NetInformationDemo1.pdb

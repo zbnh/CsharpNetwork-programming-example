@@ -1,0 +1,10 @@
+D:\cs\ch5\TabControlExample\TabControlExample\bin\Debug\TabControlExample.exe
+D:\cs\ch5\TabControlExample\TabControlExample\bin\Debug\TabControlExample.pdb
+D:\cs\ch5\TabControlExample\TabControlExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\TabControlExample\TabControlExample\obj\Debug\TabControlExample.Form1.resources
+D:\cs\ch5\TabControlExample\TabControlExample\obj\Debug\TabControlExample.Properties.Resources.resources
+D:\cs\ch5\TabControlExample\TabControlExample\obj\Debug\TabControlExample.csproj.GenerateResource.Cache
+D:\cs\ch5\TabControlExample\TabControlExample\obj\Debug\TabControlExample.exe
+D:\cs\ch5\TabControlExample\TabControlExample\obj\Debug\TabControlExample.pdb
+D:\备课\10.源程序（1-15）\ch6\E19-TabControlExample\TabControlExample\obj\Debug\TabControlExample.exe
+D:\备课\10.源程序（1-15）\ch6\E19-TabControlExample\TabControlExample\obj\Debug\TabControlExample.pdb

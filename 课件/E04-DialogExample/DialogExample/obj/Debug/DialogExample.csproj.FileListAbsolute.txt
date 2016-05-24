@@ -1,0 +1,9 @@
+D:\cs\ch5\DialogExample\DialogExample\bin\Debug\DialogExample.exe
+D:\cs\ch5\DialogExample\DialogExample\bin\Debug\DialogExample.pdb
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\DialogExample.DialogForm.resources
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\DialogExample.MainForm.resources
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\DialogExample.Properties.Resources.resources
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\DialogExample.csproj.GenerateResource.Cache
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\DialogExample.exe
+D:\cs\ch5\DialogExample\DialogExample\obj\Debug\DialogExample.pdb

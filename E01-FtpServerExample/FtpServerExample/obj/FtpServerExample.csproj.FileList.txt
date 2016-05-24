@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FtpServerExample.Form1.resources
+obj\Debug\FtpServerExample.Properties.Resources.resources
+obj\Debug\FtpServerExample.csproj.GenerateResource.Cache
+bin\Debug\FtpServerExample.exe
+bin\Debug\FtpServerExample.pdb
+obj\Debug\FtpServerExample.exe
+obj\Debug\FtpServerExample.pdb

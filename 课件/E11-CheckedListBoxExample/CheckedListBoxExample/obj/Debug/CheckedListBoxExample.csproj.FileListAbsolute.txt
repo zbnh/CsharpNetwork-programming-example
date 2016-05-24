@@ -1,0 +1,12 @@
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\bin\Debug\CheckedListBoxExample.exe
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\bin\Debug\CheckedListBoxExample.pdb
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.Form1.resources
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.Properties.Resources.resources
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.csproj.GenerateResource.Cache
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.exe
+D:\cs\ch5\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.pdb
+E:\mjbook\cs1\ch6\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.exe
+E:\mjbook\cs1\ch6\CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.pdb
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E11-CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.exe
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E11-CheckedListBoxExample\CheckedListBoxExample\obj\Debug\CheckedListBoxExample.pdb

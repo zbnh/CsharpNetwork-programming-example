@@ -1,0 +1,8 @@
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\bin\Debug\DateTimePickerExample.exe
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\bin\Debug\DateTimePickerExample.pdb
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\obj\Debug\DateTimePickerExample.Form1.resources
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\obj\Debug\DateTimePickerExample.Properties.Resources.resources
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\obj\Debug\DateTimePickerExample.csproj.GenerateResource.Cache
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\obj\Debug\DateTimePickerExample.exe
+D:\cs\ch5\DateTimePickerExample\DateTimePickerExample\obj\Debug\DateTimePickerExample.pdb

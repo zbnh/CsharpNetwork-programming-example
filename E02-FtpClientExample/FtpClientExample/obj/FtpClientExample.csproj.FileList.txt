@@ -1,0 +1,8 @@
+bin\Debug\FtpClientExample.exe
+bin\Debug\FtpClientExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FtpClientExample.Form1.resources
+obj\Debug\FtpClientExample.Properties.Resources.resources
+obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+obj\Debug\FtpClientExample.exe
+obj\Debug\FtpClientExample.pdb

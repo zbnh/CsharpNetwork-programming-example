@@ -1,0 +1,8 @@
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\bin\Debug\SplitContainerExample.exe
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\bin\Debug\SplitContainerExample.pdb
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\obj\Debug\SplitContainerExample.Form1.resources
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\obj\Debug\SplitContainerExample.Properties.Resources.resources
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\obj\Debug\SplitContainerExample.csproj.GenerateResource.Cache
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\obj\Debug\SplitContainerExample.exe
+D:\cs\ch5\SplitContainerExample\SplitContainerExample\obj\Debug\SplitContainerExample.pdb

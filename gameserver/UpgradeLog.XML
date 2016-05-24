@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="gameserver">
+</Property><Property Name="解决方案文件" Value="C:\Users\ch\Desktop\gameserver\gameserver.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\ch\Desktop\gameserver\gameserver.suo">
+</Property><Property Name="Date" Value="2016年5月11日">
+</Property><Property Name="Time" Value="16:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="gameserver.sln" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver.sln">
+</Event><Event ErrorLevel="0" Project="" Source="gameserver.suo" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver.suo">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\gameserver.csproj" Description="项目文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\gameserver.csproj">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Form1.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Form1.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\gametable.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\gametable.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\player.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\player.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Program.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Program.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\service.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\service.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\user.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\user.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Form1.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Form1.resx">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\gameserver\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="gameserver" Source="gameserver\gameserver.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="gameserver" Source="gameserver\gameserver.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="项目文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\GameClient.csproj">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\DotColor.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\DotColor.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\FormPlaying.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\FormPlaying.designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\FormRoom.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\FormRoom.designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Program.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Service.cs" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Service.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\app.config" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\app.config">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Resources\grid.gif" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Resources\grid.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Resources\black.gif" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Resources\black.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Resources\white.gif" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Resources\white.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\FormPlaying.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\FormRoom.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\ch\Desktop\gameserver\Backup\GameClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GameClient" Source="GameClient\GameClient.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="gameserver.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="gameserver.sln" Description="Converted">
+</Event></UpgradeLog>

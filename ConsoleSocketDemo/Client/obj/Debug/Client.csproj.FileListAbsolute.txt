@@ -1,0 +1,5 @@
+G:\C#网络编程\ConsoleSocketDemo\Client\bin\Debug\Client.exe.config
+G:\C#网络编程\ConsoleSocketDemo\Client\bin\Debug\Client.exe
+G:\C#网络编程\ConsoleSocketDemo\Client\bin\Debug\Client.pdb
+G:\C#网络编程\ConsoleSocketDemo\Client\obj\Debug\Client.exe
+G:\C#网络编程\ConsoleSocketDemo\Client\obj\Debug\Client.pdb

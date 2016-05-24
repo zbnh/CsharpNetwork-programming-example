@@ -1,0 +1,10 @@
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\bin\Debug\NotifyIconExample.exe
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\bin\Debug\NotifyIconExample.pdb
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.Form1.resources
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.Properties.Resources.resources
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.csproj.GenerateResource.Cache
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.exe
+E:\mjbook\cs1\ch6\NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.pdb
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E21-NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.exe
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E21-NotifyIconExample\NotifyIconExample\obj\Debug\NotifyIconExample.pdb

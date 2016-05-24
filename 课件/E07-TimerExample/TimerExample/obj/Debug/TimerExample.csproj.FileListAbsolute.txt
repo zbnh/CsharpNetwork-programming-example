@@ -1,0 +1,12 @@
+D:\cs\ch5\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+D:\cs\ch5\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+D:\cs\ch5\TimerExample\TimerExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\TimerExample\TimerExample\obj\Debug\TimerExample.Form1.resources
+D:\cs\ch5\TimerExample\TimerExample\obj\Debug\TimerExample.Properties.Resources.resources
+D:\cs\ch5\TimerExample\TimerExample\obj\Debug\TimerExample.csproj.GenerateResource.Cache
+D:\cs\ch5\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+D:\cs\ch5\TimerExample\TimerExample\obj\Debug\TimerExample.pdb
+F:\backup\备课\10.源程序（1-15）\ch6\E07-TimerExample\TimerExample\obj\Debug\TimerExample.exe
+F:\backup\备课\10.源程序（1-15）\ch6\E07-TimerExample\TimerExample\obj\Debug\TimerExample.pdb
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E07-TimerExample\TimerExample\obj\Debug\TimerExample.exe
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E07-TimerExample\TimerExample\obj\Debug\TimerExample.pdb

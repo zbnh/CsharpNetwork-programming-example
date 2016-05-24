@@ -1,0 +1,16 @@
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Form1.resources
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\VS2005版\第5章 FTP应用编程\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.exe
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.pdb
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Form1.resources
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.Properties.Resources.resources
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\obj\Debug\FtpClientExample.csproj.GenerateResource.Cache
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.exe
+E:\新建文件夹\第5章 FTP应用编程\FtpClientExample\FtpClientExample\bin\Debug\FtpClientExample.pdb

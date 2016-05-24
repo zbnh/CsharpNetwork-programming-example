@@ -1,0 +1,10 @@
+D:\cs\ch5\EventExample\EventExample\bin\Debug\EventExample.exe
+D:\cs\ch5\EventExample\EventExample\bin\Debug\EventExample.pdb
+D:\cs\ch5\EventExample\EventExample\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\ch5\EventExample\EventExample\obj\Debug\EventExample.Form1.resources
+D:\cs\ch5\EventExample\EventExample\obj\Debug\EventExample.Properties.Resources.resources
+D:\cs\ch5\EventExample\EventExample\obj\Debug\EventExample.csproj.GenerateResource.Cache
+D:\cs\ch5\EventExample\EventExample\obj\Debug\EventExample.exe
+D:\cs\ch5\EventExample\EventExample\obj\Debug\EventExample.pdb
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E06-EventExample\EventExample\obj\Debug\EventExample.exe
+D:\备课\c#+asp\10.源程序（1-15）\ch6\E06-EventExample\EventExample\obj\Debug\EventExample.pdb

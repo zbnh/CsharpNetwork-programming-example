@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\tcpclientDemo\tcpClient\bin\Debug\tcpClient.exe.config
+G:\C#网络编程\tcpclientDemo\tcpClient\bin\Debug\tcpClient.exe.config
+G:\C#网络编程\tcpclientDemo\tcpClient\bin\Debug\tcpClient.exe
+G:\C#网络编程\tcpclientDemo\tcpClient\bin\Debug\tcpClient.pdb
+G:\C#网络编程\tcpclientDemo\tcpClient\obj\Debug\tcpClient.Form1.resources
+G:\C#网络编程\tcpclientDemo\tcpClient\obj\Debug\tcpClient.Properties.Resources.resources
+G:\C#网络编程\tcpclientDemo\tcpClient\obj\Debug\tcpClient.csproj.GenerateResource.Cache
+G:\C#网络编程\tcpclientDemo\tcpClient\obj\Debug\tcpClient.exe
+G:\C#网络编程\tcpclientDemo\tcpClient\obj\Debug\tcpClient.pdb

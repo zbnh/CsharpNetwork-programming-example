@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPositionExample", "FormPositionExample\FormPositionExample.csproj", "{6BC4144B-84A8-400A-80BA-DA7075E2994A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC4144B-84A8-400A-80BA-DA7075E2994A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC4144B-84A8-400A-80BA-DA7075E2994A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC4144B-84A8-400A-80BA-DA7075E2994A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC4144B-84A8-400A-80BA-DA7075E2994A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
